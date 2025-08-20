@@ -17,3 +17,26 @@ input {
     border-radius: 0.2rem;
     border-style: none;
 }
+
+h2 {
+    justify-self: start;
+}
+
+p {
+    text-align: left;
+    margin: 0.3rem 0 0.3rem 0;
+}
+
+#song-container {
+    margin-bottom: 3rem;
+}
+
+.songtitle-container {
+    margin-bottom: 1rem;
+}
+
+.song-div {
+    width: 85vw;
+    justify-self: center;
+}
+

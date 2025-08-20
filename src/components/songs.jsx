@@ -51,20 +51,31 @@ function Songs() {
         <div>
             <ul>
                 <li><a onClick={() => filterByCategory('All')}>Alla sånger</a></li>
-                <li><a onClick={() => filterByCategory('Kat 1')}>Kat 1</a></li>
-                <li><a onClick={() => filterByCategory('Kat 2')}>Kat 2</a></li>
+                <li><a onClick={() => filterByCategory('Vajan')}>Vajan</a></li>
             </ul>
 
             <input type='text' id='search-songs' onChange={filterSongs} placeholder='Sök efter sång'></input>
+            <div id="song-container">
+                {songs.map((song) => (
+                    <div key={song.id} className='song-div'>
 
-            {songs.map((song) => (
-                <div key={song.id}>
-                    <h2>{song.title}</h2>
-                    <p>Mel: {song.melody}</p>
-                    <p>Text: {song.author}</p>
-                    <p>{song.text}</p>
-                </div> 
-            ))}
+                        <div className='songtitle-container'>
+                            <h2>{song.title}</h2>
+
+                            {song.melody && (
+                                <p style={{fontStyle: 'italic'}}>Mel: {song.melody}</p>
+                            )}
+
+                            {song.author && (
+                                <p style={{fontStyle: 'italic'}}>Text: {song.author}</p>
+                            )}
+                        </div>
+
+                        <p style={{ whiteSpace: "pre-line" }}>{song.text}</p>
+                    </div> 
+                ))}
+            </div>
+            
         </div>
     )
 }
