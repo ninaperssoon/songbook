@@ -1,4 +1,4 @@
-import logo from '../assets/v-logo.png'
+import logo from '../assets/v-logo-vit.png'
 import './header.css'
 
 function Header() {

@@ -1,6 +1,7 @@
 import { getSongData } from './data-retriever.jsx'
 import { useEffect } from 'react'
 import { useState } from 'react'
+import './songs.css'
 
 function Songs() {
     const [songs, setSongs] = useState([])
@@ -65,7 +66,6 @@ function Songs() {
                 </div> 
             ))}
         </div>
-        
     )
 }
 
