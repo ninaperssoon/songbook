@@ -1,12 +1,16 @@
 [
     {
-      "title": "My First Song",
-      "artist": "Me",
-      "lyrics": "La la la..."
+        "id": "1"
+        "title": "My First Song",
+        "author": "Me",
+        "melody": "Sunnanvind",
+        "text": "La la la..."
     },
     {
-      "title": "Friend’s Hit",
-      "artist": "Friend",
-      "lyrics": "Do re mi..."
-    }
+        "id": "2"
+        "title": "Happy Birthday",
+        "author": "Old song",
+        "melody": "Happy Birthday",
+        "text": "Happy birthday to you, happy birthday to you..."
+    },
   ]
