@@ -1,18 +1,18 @@
 [
     {
         "id": "1",
-        "title": "My First Song",
-        "author": "Me",
-        "melody": "Sunnanvind",
-        "text": "La la la \nTra la la \nHej hopp!",
-        "category": "Kat 1"
+        "title": "Vajansången",
+        "author": null,
+        "melody": null,
+        "text": "Norrlandsjäntor samlats här \nuti fröjd och gamman. Norrlandslängtan på oss tär \nså vi håller samman. \nMen den längtan den försvann \noch min levnadsstil blev sann \nnär jag hittade Vajan. \nUtan Vajan är mitt liv \nutan lust och mening. \nVill int gå omkring och driv, \njag fann min förening. \nHugg nu tag uti ett ben, \nställ dig upp och var en ren \noch låt din strupe få rening. \nLingon, hjortron, åkerbär, \nallt det finns i skogen. \nStaten säljer samma här \nfastän mera mogen. \nSörlänning tyck he e bra \nmen sånt schwammel vill vi int ha, \nvi är renspriten trogen.",
+        "category": "Vajan"
     },
     {
         "id": "2",
-        "title": "Happy Birthday",
-        "author": "Old song",
-        "melody": "Happy Birthday",
-        "text": "Happy birthday to you, happy birthday to you...",
-        "category": "Kat 2"
+        "title": "Vajans sång",
+        "author": null,
+        "melody": "I Apladalen i Värnamo",
+        "text": "På vår nation finns det en förening \nsom helt och fullt insett livets mening. \nAlla de flickor i renko hamn \nbär alla stolta på Vajans namn. \nEn vaja håller på traditionen, \nhon känner stolthet inför nationen, och hon gillar att ordna fest \ndit härken inbjuds som hedersgäst. \nPå Norrlands finns ju så många tjejer \nmen det är sant det som alla säger: \nOm du en fulländad kväll vill få \när Vajan något att lita på.",
+        "category": "Vajan"
     }
 ]
