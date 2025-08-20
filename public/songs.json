@@ -14,5 +14,141 @@
         "melody": "I Apladalen i Värnamo",
         "text": "På vår nation finns det en förening \nsom helt och fullt insett livets mening. \nAlla de flickor i renko hamn \nbär alla stolta på Vajans namn. \n\nEn vaja håller på traditionen, \nhon känner stolthet inför nationen, och hon gillar att ordna fest \ndit härken inbjuds som hedersgäst. \n\nPå Norrlands finns ju så många tjejer \nmen det är sant det som alla säger: \nOm du en fulländad kväll vill få \när Vajan något att lita på.",
         "category": "Vajan"
+    },
+    {
+        "id": "3",
+        "title": "Lingon",
+        "author": "Helena Söderlund",
+        "melody": "I Apladalen i Värnamo",
+        "text": "I skogen växer det lingon röda. \nAtt dom är röda det båtar föga. \nFör lingon är Vajans favorit \nnär de har blandats med renad sprit.",
+        "category": "Vajan"
+    },
+    {
+        "id": "4",
+        "title": "Norrlandssången",
+        "author": null,
+        "melody": null,
+        "text": "Hör du, säg, hör du vår norrländska låt \növer vidden klinga, manande och bringa \nhälsning till landet, där mångmila stråt \nbanande når den bygden som är vår? \n\nÄlvarnas silver i mörknande skog, \nbergsmassiv som gråna och sin märg oss låna, \nskälvande mylla bak vändande plog, \nhavets vida famn med skötar, grund och hamn. \n\nNorrland är vårt rike, landet utan like, \nstorvulet vilt eller leende och milt. \nI mitt sinne leka jublande veka \nsånger ibland om min hembygds fagra land. \n\nLyft då ditt huvud och räta din rygg! \nStoltare än andra kan du vägen vandra. \nNorrlänning är du, och ärlig och trygg \nsjung din vandringslåt på norrländsk färdestråt!",
+        "category": "Norrlands"
+    },
+    {
+        "id": "5",
+        "title": "Mera brännvin",
+        "author": "Hans Dahlborg",
+        "melody": "Internationalen",
+        "text": "Mera brännvin i glasen, \nmera glas på vårt bord, \nmera bord på kalasen, \nmer kalas på vår jord. \nMera jordar med måne, \nmera månar i mars, \nmera marscher till Skåne, \nmera Skåne - gudbevars!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "6",
+        "title": "Om cykling",
+        "author": "Povel Ramel / Vajans vers: Therese von Ahn, Annika Isaksson och Ida Viderlund",
+        "melody": "Så väva vi vadmal",
+        "text": "Man cyklar för lite, man röker för mycket, \noch man är fasen så liberal \nnär det gäller maten och spriten. \nJag borde slutat för länge sedan men denna sup är så liten. \nVad tjänar att hyckla? Tids nog får man cykla! \n\nMan pippar för lite, man hånglar för mycket, \noch man är fasen så liberal när det gäller runka av pliten. \nJag borde kommit för länge sedan \nmen denna kuk är så liten. \nVad tjänar att pulla? Tids nog får man knulla!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "7",
+        "title": "Tänk om",
+        "author": null,
+        "melody": "Hej tomtegubbar",
+        "text": "//: Tänk om man hade lilla nubben \nuppå ett snöre i halsen! :// \nJag skulle dra den upp och ner \nså att det kändes som många fler. \nTänk om man hade lilla nubben uppå ett snöre i halsen!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "8",
+        "title": "I Norrland växer det",
+        "author": null,
+        "melody": "I Apladalen i Värnamo",
+        "text": "I Norrland växer det tallar höga. \nAtt de är höga det båtar föga. \nEn vacker dag faller de omkull. \nallt för den eviga törstens skull.",
+        "category": "Norrlands"
+    },
+    {
+        "id": "9",
+        "title": "FörstRenssången",
+        "author": null,
+        "melody": "Jungfru skär",
+        "text": "FörstRen, FörstRen, hon är våran hjälte, \nhon har ingen lever, hon har ingen mjälte. \nNär de frågar, vem är **? \nAlla vet, alla vet för hon är king på vår planet. \nFör ha ha ha, det går ju så bra, \nför ** sveper fyra liter whiskey varje dag. \nFör ha ha ha, det går ju så bra, \nför ** sveper fyra liter whiskey varje dag!",
+        "category": "Vajan"
+    },
+    {
+        "id": "10",
+        "title": "Storkarlssången",
+        "author": "Vajans styrelse HT12",
+        "melody": "Främling",
+        "text": "Storkarl, vad döljer du för oss \ni dina stora byxor? \nEn svag nyans \nav skägg nånstans, \nmen ändå, en storkarl. \nSå känner vi för dig. \nVi ber dig, låt oss få veta, \nvill du ha vaja? \nKan du den svaja \nframför oss? \n\nÅldermannen har en liten slev, \nmen Storkarl han har något mer att ge. \nTa första steget och visa oss benet ikväll. \nDär bortom kammarn finns en evighet \ndär vi kan skeda hela natten lång. \nTa första steget och visa oss benet ikväll. \nEn känsla och vi litar på den. \nVår nya Storkarl, han får sällskap varje kväll.",
+        "category": "Vajan"
+    },
+    {
+        "id": "11",
+        "title": "Finland är Finland",
+        "author": null,
+        "melody": "Högt över havet",
+        "text": "Finland är Finland och Finland är bra. \nDe har en pipeline med sprit från Moskva. \nBada bastu och slå sig med ris, \nhacka hål i is! \n\nRyssland är Ryssland och Ryssland är bra. \nDe har en halvö som tillhör Ukraina. \nHalsa vodka och boffa lim, \ninvadera Krim! \n\nGotland är Gotland och Gotland är bra. \nSnart kommer ryssen som allting ska ha. \nSpränga raukar och skjuta får, \nön blir rysk i år! \n\nMähler är Mähler och Mähler är bra. \nHon har en toa som funkar ett tag. \nKissa massor men bajsa mer, \nut till skogs med er!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "12",
+        "title": "Femstegskurs",
+        "author": null,
+        "melody": "Kors på Idas grav",
+        "text": "Inbesupna Vajan stå på bräcklig fot. \nInget stadigt finns att luta sig emot. \nI kammaren av hammaren hör hon många hårda slag. \nKommer hon att vilja vakna nästa dag? \n\nNär Vajan tagit sig en Jäger eller tre, \nvill hon fortfarande gärna vara med. \nHon har stora svårigheter att gå rakt ens ett par meter. \nDet går lika bra att krypa hem på sned! \n\nVajan frågar luddigt ”Varför ska jag hem?” \nÖkar takten på och lägger till en rem \nemot baren där hon tar en ytterligare stor stark. \nGlas i pannan slår sen faller hon till mark! \n\nNu har Vajan missat varje tänkbar buss. \nDet gör inget av polisen får hon skjuts. \nFör dem högljutt deklarerar Vajans sånger och orerar: \n”Du är gullig grabben, vill du ha en puss?” \n\nUr polisens bil vår Vaja kastas ut. \nMuttrar ilsket: ”Det var ingen trevlig snut!” \nSer i fjärran Studentvägen, tänker: \n”Jag är bäst i alla lägen!” \nSomnar genast med ett dämpat glädjetjut: \n”DET ÄR FEST!!!”",
+        "category": "Vajan"
+    },
+    {
+        "id": "13",
+        "title": "Det är vaja man vill va",
+        "author": "Cecili Stenman och Laila Bucht Sjöström",
+        "melody": "När vi gräver guld i USA",
+        "text": "En vaja sätter fart på nationen, \nvisar hur man gör, \ndricker lingon som sig bör. \nPå kammaren är det alltid fest! \n\nEn vaja hon kan väcka passionen. \nMännen blir som smör \nnär hon dem förför, \nJa, det är ju vaja man vill va! \n\nFör en vaja vill ju alla smarta tjejer va! \nJa, det är ju vaja man vill va!",
+        "category": "Vajan"
+    },
+    {
+        "id": "14",
+        "title": "Inlandsbanan",
+        "author": null,
+        "melody": null,
+        "text": "När de byggde Inlandsbanan, \nbomfadderi-fadderullan-banan, \ndå var alla flickor glada, \nbomfadderi-fadderullan-lej. \nFemton år och gängad mus – HEJ! \nBomfadderi-fadderullan-lej. \nHugg i – och dra! \nOch när de andra kör med ljus, \nbomfadderi-fadderullan-lej. \n\nNär de sen på morron vakna, \nbomfadderi-fadderullan-vakna, \nbörja’ de sin mödom sakna, \nbomfadderi-fadderullan-lej. \nGick då hem till mor och sa: – HEJ! \nBomfadderi-fadderullan-lej. \n”Åh mor! Åh mor, åh mor jag är med barn”, \nbomfadderi-fadderullan-lej. \n\n”Barn, åh barn du ska ej gråta, \nbomfadderi-fadderullan-gråta, \nännu finns det karlar kåta, \nbomfadderi-fadderullan-lej. \nPippa du så vaggar jag – HEJ! \nBomfadderi-fadderullan-lej. \nHugg i – och dra! \nDu ska nog se det ordnar sig, \nbomfadderi-fadderullan-lej”.",
+        "category": "Vajan"
+    },
+    {
+        "id": "15",
+        "title": "Törsten rasar",
+        "author": null,
+        "melody": "Längtan till landet",
+        "text": "Törsten rasar uti våra strupar, \ntungan hänger torr och styv och stel. \nMen snart vankas stora långa supar, \nvar och en får sin beskärda del. \nSnapsen kommer, den vi vilja tömma, \ndenna nektar lik Olympens saft, \nkommer oss att våra sorger glömma. \nSnapsen skänker hälsa liv och kraft.",
+        "category": "Klassiker"
+    },
+    {
+        "id": "16",
+        "title": "Ett-två-tre",
+        "author": null,
+        "melody": "Snickerboa",
+        "text": "När vajan tagit sig en snaps, \ndå festar hon som få. \nOch lycklig den som vajan får \nom hon fått i sig två. \n\nDå blir hon vacker, härlig och kär, \nsådär som hon ju alltid är \noch får hon fler, \ndå vet man inte vad som sker! \n\nEn vaja är en härlig ren, \npå kammarn trivs hon bäst. \nOch får hon hålla i ett ben, \nja, då så blir det fest. \n\nLingon, Lakka, allt går ner \noch allt det där som BaRen ger, \ndet räcker knappt, \nför vajan sveper jävligt snabbt! \n\nETT-TVÅ-TRE! (drick)",
+        "category": "Vajan"
+    },
+    {
+        "id": "17",
+        "title": "Än en gång däran",
+        "author": "Evert Taube",
+        "melody": null,
+        "text": "Än en gång däran, systrar! Än en gång däran! \nFöljom den urgamla seden! \nIntill sista kvinns, systrar, intill sista kvinns \ntrotsa vi hatet och vreden! \nBlankare vapen sågs aldrig i en här \nän dessa glasen, kamrater: I gevär! \nÄn en gång däran, systrar! Än en gång däran! \nSvenska hjärtans djup – här är din sup! \n\nLivet är så kort, systrar, livet är så kort! \nLek det ej bort, nej, var redo! \nKämpa mot allt torrt, systrar, kämpa mot allt torrt! \nTänk på de gamle som skredo \nfram, utan tvekan i floder av champagne, \nstyrkta från början av brännvin från vårt land! \nKämpa mot allt torrt, systrar, kämpa mot allt torrt! \nSvenska hjärtans djup – här är din sup!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "18",
+        "title": "Denna thaft",
+        "author": null,
+        "melody": "Helan går",
+        "text": "Denna thaft är den bäthta thaft thythtemet haft. \nDenna thaft är den bäthta thaft dom haft, \noch den thom inte har nån kraft han dricka thkall av denna thaft. \nDenna thaft, landth, till sjöth, till havth!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "19",
+        "title": "De bästa",
+        "author": null,
+        "melody": "Världens bästa Karlsson",
+        "text": "Vajor, Vajor, \nNorrlands bästa kvinnor. \nSnygga, läckra, jävligt sensuella. \n\nVajor, Vajor, \nNorrlands bästa kvinnor. \nAlla Norrlands pojkar vill ha oss. \n\nSmarta, smäckra, \nalldeles lagom fräcka. \nRunda, mjuka, alla män vi sluka. \n\nVajor, vajor, \nvärldens bästa tjejer. \nInga andra är ju lika bra som vi!",
+        "category": "Vajan"
     }
 ]
