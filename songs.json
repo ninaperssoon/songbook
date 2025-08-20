@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "title": "My First Song",
+        "author": "Me",
+        "melody": "Sunnanvind",
+        "text": "La la la...",
+        "category": "Kat 1"
+    },
+    {
+        "id": "2",
+        "title": "Happy Birthday",
+        "author": "Old song",
+        "melody": "Happy Birthday",
+        "text": "Happy birthday to you, happy birthday to you...",
+        "category": "Kat 2"
+    }
+]
