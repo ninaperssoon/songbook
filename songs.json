@@ -57,7 +57,7 @@
     },
     {
         "id": "8",
-        "title": "Tänk om",
+        "title": "I Norrland växer det",
         "author": null,
         "melody": "I Apladalen i Värnamo",
         "text": "I Norrland växer det tallar höga. \nAtt de är höga det båtar föga. \nEn vacker dag faller de omkull. \nallt för den eviga törstens skull.",
@@ -150,5 +150,5 @@
         "melody": "Världens bästa Karlsson",
         "text": "Vajor, Vajor, \nNorrlands bästa kvinnor. \nSnygga, läckra, jävligt sensuella. \n\nVajor, Vajor, \nNorrlands bästa kvinnor. \nAlla Norrlands pojkar vill ha oss. \n\nSmarta, smäckra, \nalldeles lagom fräcka. \nRunda, mjuka, alla män vi sluka. \n\nVajor, vajor, \nvärldens bästa tjejer. \nInga andra är ju lika bra som vi!",
         "category": "Vajan"
-    },
+    }
 ]
