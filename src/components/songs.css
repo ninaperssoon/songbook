@@ -42,6 +42,6 @@ p {
 
 .song-div {
     width: 85%;
-    justify-self: center;
+    margin: 0 auto;
 }
 
