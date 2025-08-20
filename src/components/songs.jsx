@@ -52,6 +52,9 @@ function Songs() {
             <ul>
                 <li><a onClick={() => filterByCategory('All')}>Alla sånger</a></li>
                 <li><a onClick={() => filterByCategory('Vajan')}>Vajan</a></li>
+                <li><a onClick={() => filterByCategory('Norrlands')}>Norrlands</a></li>
+                <li><a onClick={() => filterByCategory('Klassiker')}>Klassiker</a></li>
+                <li><a onClick={() => filterByCategory('Vänner')}>Vänner</a></li>
             </ul>
 
             <input type='text' id='search-songs' onChange={filterSongs} placeholder='Sök efter sång'></input>

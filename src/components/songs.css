@@ -1,6 +1,7 @@
 ul {
     list-style: none;
     padding: 0;
+    margin-bottom: 1rem;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -14,8 +15,13 @@ a {
 input {
     padding: 0.5rem;
     width: 80vw;
-    border-radius: 0.2rem;
+    border-radius: 0.4rem;
     border-style: none;
+    color: #C12E2E;
+}
+
+input:focus {
+    outline-color: #C12E2E;
 }
 
 h2 {
