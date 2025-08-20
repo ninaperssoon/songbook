@@ -1,6 +1,10 @@
 function Tabs() {
     return (
-        <p>Tabbar med kategorier</p>
+        <ul>
+            <li>kat 1</li>
+            <li>kat 2</li>
+
+        </ul>
     )
 }
 
