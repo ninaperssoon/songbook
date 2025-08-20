@@ -1,13 +1,13 @@
 [
     {
-        "id": "1"
+        "id": "1",
         "title": "My First Song",
         "author": "Me",
         "melody": "Sunnanvind",
         "text": "La la la..."
     },
     {
-        "id": "2"
+        "id": "2",
         "title": "Happy Birthday",
         "author": "Old song",
         "melody": "Happy Birthday",
