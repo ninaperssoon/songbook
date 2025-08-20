@@ -25,12 +25,12 @@ input:focus {
 }
 
 h2 {
-    justify-self: start;
+    text-align: left;
 }
 
 p {
-    text-align: left;
     margin: 0.3rem 0 0.3rem 0;
+    text-align: left;
 }
 
 #song-container {
