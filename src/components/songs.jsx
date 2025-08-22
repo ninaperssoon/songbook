@@ -102,10 +102,12 @@ function Songs() {
 
     useEffect(() => {
         if (currentSongId) {
-          const el = document.getElementById(currentSongId);
-          if (el) {
-            el.scrollIntoView({ behavior: "smooth", block: "start" });
-          }
+            const navHeight = document.getElementById('nav').offsetHeight;
+            const el = document.getElementById(currentSongId);
+            if (el) {
+              const y = el.getBoundingClientRect().top + window.scrollY - navHeight;
+              window.scrollTo({ top: y, behavior: 'smooth' });
+            }
           setCurrentSongId(null)
         }
     }, [songs, currentSongId]); 
