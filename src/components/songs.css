@@ -52,7 +52,9 @@ p {
 #overlay {
     background-color: rgba(255, 255, 255, 0.87);
     width: 85%;
-    margin: -100% auto 0 auto;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: -100%;
     z-index: 1000;
     justify-self: center;
     position: fixed;
@@ -64,7 +66,6 @@ p {
 #overlay-content {
     display: grid;
     grid-template-columns: auto auto;
-    max-height: 80vh;
     overflow-y: auto;
 }
 
