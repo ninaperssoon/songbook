@@ -35,7 +35,7 @@ function Songs() {
 
     const filterSongs = (e) => {
         const target = e.target.value.toLowerCase()
-        
+
         if (songContainer.innerText === noMatchText) {
             songContainer.innerText = ''
         }
@@ -150,7 +150,7 @@ function Songs() {
                 <div id='overlay'>
                     <button onClick={closeRegister}><p>x</p></button>
                     <div id='overlay-content'>
-                        {allSongs.map((song) => (
+                        {allSongs.slice().sort((a, b) => a.title.localeCompare(b.title)).map((song) => (
                             <a key={song.title} onClick={() => findSong(song.id)}>{song.title}</a>
                         ))}
                     </div>
