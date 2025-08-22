@@ -3,7 +3,7 @@ import './header.css'
 
 function Header() {
     return (
-        <div>
+        <div id='container'>
             <img src={logo} ></img>
             <h1>Vajans lilla röda</h1>
         </div>

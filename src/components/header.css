@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+
+#container {
+    margin: 2rem 0 2rem 0;
+}
+
 img {
     width: 50vw;
+}
+
+h1 {
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
+    padding: 0;
+    margin: 0;
 }

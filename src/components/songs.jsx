@@ -6,8 +6,9 @@ import './songs.css'
 function Songs() {
     const [songs, setSongs] = useState([])
     const [allSongs, setAllSongs] = useState([])
+    const overlay = document.getElementById('overlay')
+    const [currentSongId, setCurrentSongId] = useState(null);
 
-    
 
     useEffect(() => {
         async function fetchSongs() {
@@ -59,6 +60,7 @@ function Songs() {
 
         if (category === 'All') {
             setSongs(allSongs)
+            scrollToTop()
             return
         }
         const targetCategory = category.toLowerCase()
@@ -68,22 +70,76 @@ function Songs() {
         )
 
         setSongs(filteredSongs)
+        scrollToTop()
+        
     }
+
+    function scrollToTop() {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    }
+
+    function openRegister() {
+        overlay.style.display = 'grid'
+        document.body.style.overflow ='hidden'
+    }
+
+    function findSong(id) {
+        closeOverlay()
+
+        setSongs(allSongs)
+        filterByCategory('All')
+
+        setCurrentSongId(id)
+    }
+
+    function closeOverlay() {
+        overlay.style.display = 'none'
+        document.body.style.overflow ='auto'
+    }
+
+    useEffect(() => {
+        if (currentSongId) {
+          const el = document.getElementById(currentSongId);
+          if (el) {
+            el.scrollIntoView({ behavior: "smooth", block: "start" });
+          }
+          setCurrentSongId(null)
+        }
+    }, [songs, currentSongId]); 
 
     return (
         <div>
-            <ul>
-                <li><a id='All' onClick={() => filterByCategory('All')}>Alla sånger</a></li>
-                <li><a id='Vajan' onClick={() => filterByCategory('Vajan')}>Vajan</a></li>
-                <li><a id='Norrlands' onClick={() => filterByCategory('Norrlands')}>Norrlands</a></li>
-                <li><a id='Klassiker' onClick={() => filterByCategory('Klassiker')}>Klassiker</a></li>
-                <li><a id='Vänner' onClick={() => filterByCategory('Vänner')}>Vänner</a></li>
-            </ul>
+            <div id='nav'>
+                <ul>
+                    <li><a id='All' onClick={() => filterByCategory('All')}>Alla sånger</a></li>
+                    <li><a id='Vajan' onClick={() => filterByCategory('Vajan')}>Vajan</a></li>
+                    <li><a id='Norrlands' onClick={() => filterByCategory('Norrlands')}>Norrlands</a></li>
+                    <li><a id='Klassiker' onClick={() => filterByCategory('Klassiker')}>Klassiker</a></li>
+                    <li><a id='Vänner' onClick={() => filterByCategory('Vänner')}>Vänner</a></li>
+                </ul>
 
-            <input type='text' id='search-songs' onChange={filterSongs} placeholder='Sök efter sång'></input>
+                <input type='text' id='search-songs' onChange={filterSongs} placeholder='Sök efter sång'></input>
+
+                <div id='register'>Eller bläddra bland alla sånger i <a onClick={openRegister}>Registret</a></div>
+                
+            </div>
+
             <div id="song-container">
+
+                <div id='overlay'>
+                    <button onClick={closeOverlay}><p>x</p></button>
+                    <div id='overlay-content'>
+                        {allSongs.map((song) => (
+                            <a key={song.title} onClick={() => findSong(song.id)}>{song.title}</a>
+                        ))}
+                    </div>
+                </div>
+
                 {songs.map((song) => (
-                    <div key={song.id} className='song-div'>
+                    <div key={song.id} id={song.id} className='song-div'>
 
                         <div className='songtitle-container'>
                             <h2>{song.title}</h2>

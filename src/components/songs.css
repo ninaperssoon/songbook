@@ -1,6 +1,6 @@
 ul {
     list-style: none;
-    padding: 0 0 1rem 0;
+    padding: 0;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -17,6 +17,7 @@ input {
     border-radius: 0.4rem;
     border-style: none;
     color: #C12E2E;
+    margin-bottom: 0.7rem;
 }
 
 input:focus {
@@ -46,4 +47,62 @@ p {
 
 .active {
     color: #831a1a;
+}
+
+#overlay {
+    background-color: rgba(255, 255, 255, 0.87);
+    width: 85%;
+    margin: -100% auto 0 auto;
+    z-index: 1000;
+    justify-self: center;
+    position: fixed;
+    padding: 1rem;
+    border-radius: 0.4rem;
+    display: none;
+}
+
+#overlay-content {
+    display: grid;
+    grid-template-columns: auto auto;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+#overlay a {
+    color: #831a1a;
+    padding: 0.5rem 0;
+    text-align: left;
+}
+
+#overlay button {
+    justify-self: flex-end;
+    width: 2rem;
+    height: 2rem;
+    background-color: transparent;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #C12E2E;
+    color: #C12E2E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#register {
+    text-align: start;
+    width: 85%;
+    margin: 0 auto;
+}
+
+#register a{
+    text-decoration: underline;
+}
+
+#nav {
+    background-color: #C12E2E;
+    position: sticky;
+    top: 0;
+    padding: 0.2rem 0 1rem 0;
+    transition: box-shadow 0.2s ease-in-out;
+    box-shadow: 0px 5px 5px #831a1a6e;
 }
