@@ -8,14 +8,23 @@ function Songs() {
     const [allSongs, setAllSongs] = useState([])
     const overlay = document.getElementById('overlay')
     const [currentSongId, setCurrentSongId] = useState(null);
-
+    const all = document.getElementById('All')
+    const vajan = document.getElementById('Vajan')
+    const norrlands = document.getElementById('Norrlands')
+    const classics = document.getElementById('Klassiker')
+    const friends = document.getElementById('Vänner')
+    const categories = [all, vajan, norrlands, classics, friends]
+    const input = document.getElementById('search-songs')
+    const songContainer = document.getElementById('song-container')
+    const noMatchText = 'Ingen sång matchar din sökning'
+    const noMatch = document.createTextNode(noMatchText)
+    
 
     useEffect(() => {
         async function fetchSongs() {
             const data = await getSongData()
             setSongs(data)
             setAllSongs(data)
-            
         }
         fetchSongs()
 
@@ -26,6 +35,10 @@ function Songs() {
 
     const filterSongs = (e) => {
         const target = e.target.value.toLowerCase()
+        
+        if (songContainer.innerText === noMatchText) {
+            songContainer.innerText = ''
+        }
       
         if (target.length === 0) {
             setSongs(allSongs)
@@ -35,28 +48,24 @@ function Songs() {
         const filteredSongs = allSongs.filter(song =>
             song.title.toLowerCase().includes(target)
         )
+        
+        if (filteredSongs.length < 1) {
+            songContainer.appendChild(noMatch)
+        }
+
+        all.classList.add('active')
+        removeActiveClass(all)
       
         setSongs(filteredSongs)
     }
 
     function filterByCategory(category) {
+        input.value = ''
 
         const element = document.getElementById(category)
         element.classList.add('active')
-
-        const all = document.getElementById('All')
-        const vajan = document.getElementById('Vajan')
-        const norrlands = document.getElementById('Norrlands')
-        const classics = document.getElementById('Klassiker')
-        const friends = document.getElementById('Vänner')
         
-        const categories = [all, vajan, norrlands, classics, friends]
-
-        for (const item of categories) {
-            if (item !== element) {
-                item.classList.remove('active')
-            }
-        }
+        removeActiveClass(element)
 
         if (category === 'All') {
             setSongs(allSongs)
@@ -71,7 +80,14 @@ function Songs() {
 
         setSongs(filteredSongs)
         scrollToTop()
-        
+    }
+
+    function removeActiveClass(element) {
+        for (const item of categories) {
+            if (item !== element) {
+                item.classList.remove('active')
+            }
+        }
     }
 
     function scrollToTop() {
@@ -81,13 +97,8 @@ function Songs() {
         });
     }
 
-    function openRegister() {
-        overlay.style.display = 'grid'
-        document.body.style.overflow ='hidden'
-    }
-
     function findSong(id) {
-        closeOverlay()
+        closeRegister()
 
         setSongs(allSongs)
         filterByCategory('All')
@@ -95,7 +106,12 @@ function Songs() {
         setCurrentSongId(id)
     }
 
-    function closeOverlay() {
+    function openRegister() {
+        overlay.style.display = 'grid'
+        document.body.style.overflow ='hidden'
+    }
+
+    function closeRegister() {
         overlay.style.display = 'none'
         document.body.style.overflow ='auto'
     }
@@ -132,7 +148,7 @@ function Songs() {
             <div id="song-container">
 
                 <div id='overlay'>
-                    <button onClick={closeOverlay}><p>x</p></button>
+                    <button onClick={closeRegister}><p>x</p></button>
                     <div id='overlay-content'>
                         {allSongs.map((song) => (
                             <a key={song.title} onClick={() => findSong(song.id)}>{song.title}</a>
