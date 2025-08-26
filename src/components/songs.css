@@ -26,10 +26,29 @@ input:focus {
 
 h2 {
     text-align: left;
+    margin: 0;
 }
 
 p {
     text-align: left;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+header button {
+    margin-left: 1rem;
+}
+
+#tooltip {
+    max-width: 85%;
+    white-space: normal;
+    line-height: 1.3rem;
+    color: #831a1a;
 }
 
 #song-container {
@@ -77,18 +96,25 @@ p {
     text-align: left;
 }
 
-#overlay button {
+button {
     justify-self: flex-end;
-    width: 2rem;
-    height: 2rem;
     background-color: transparent;
     border-radius: 50%;
     border-style: solid;
+    align-items: center;
+    justify-content: center;
+    width: 1.5rem;
+    height: 1.5rem;
+    color: rgba(255, 255, 255, 0.87);
+    border-color: rgba(255, 255, 255, 0.87);
+}
+
+#overlay button {
     border-color: #C12E2E;
     color: #C12E2E;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 2rem;
+    height: 2rem;
 }
 
 #register {

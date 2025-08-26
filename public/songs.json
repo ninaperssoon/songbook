@@ -1,3 +1,4 @@
+
 [
     {
         "id": "1",
@@ -13,7 +14,8 @@
         "author": null,
         "melody": "I Apladalen i Värnamo",
         "text": "På vår nation finns det en förening \nsom helt och fullt insett livets mening. \nAlla de flickor i renko hamn \nbär alla stolta på Vajans namn. \n\nEn vaja håller på traditionen, \nhon känner stolthet inför nationen, och hon gillar att ordna fest \ndit härken inbjuds som hedersgäst. \n\nPå Norrlands finns ju så många tjejer \nmen det är sant det som alla säger: \nOm du en fulländad kväll vill få \när Vajan något att lita på.",
-        "category": "Vajan"
+        "category": "Vajan",
+        "info": "Härken hölls redan det första året, 1963, då kallad herrmiddag, som sedan blev härkmiddag. Arrangemanget låg i träda under hela 70-talet, men återupptogs på 80-talet."
     },
     {
         "id": "3",
@@ -21,7 +23,8 @@
         "author": "Helena Söderlund",
         "melody": "I Apladalen i Värnamo",
         "text": "I skogen växer det lingon röda. \nAtt dom är röda det båtar föga. \nFör lingon är Vajans favorit \nnär de har blandats med renad sprit.",
-        "category": "Vajan"
+        "category": "Vajan",
+        "info": "Mer än halva Västerbotten består av skog. Hur många lingon blir det?"
     },
     {
         "id": "4",
@@ -85,7 +88,8 @@
         "author": null,
         "melody": "Högt över havet",
         "text": "Finland är Finland och Finland är bra. \nDe har en pipeline med sprit från Moskva. \nBada bastu och slå sig med ris, \nhacka hål i is! \n\nRyssland är Ryssland och Ryssland är bra. \nDe har en halvö som tillhör Ukraina. \nHalsa vodka och boffa lim, \ninvadera Krim! \n\nGotland är Gotland och Gotland är bra. \nSnart kommer ryssen som allting ska ha. \nSpränga raukar och skjuta får, \nön blir rysk i år! \n\nMähler är Mähler och Mähler är bra. \nHon har en toa som funkar ett tag. \nKissa massor men bajsa mer, \nut till skogs med er!",
-        "category": "Klassiker"
+        "category": "Klassiker",
+        "info": "Många vajor i en liten stuga leder ofta till trasig toalett. Denna gång på sommargärde hos Sofie Mähler i Näsåker. \nPå jubileumsgärdet 2018 installerades Sofie Mähler som hedersvaja."
     },
     {
         "id": "12",
@@ -109,7 +113,8 @@
         "author": null,
         "melody": null,
         "text": "När de byggde Inlandsbanan, \nbomfadderi-fadderullan-banan, \ndå var alla flickor glada, \nbomfadderi-fadderullan-lej. \nFemton år och gängad mus – HEJ! \nBomfadderi-fadderullan-lej. \nHugg i – och dra! \nOch när de andra kör med ljus, \nbomfadderi-fadderullan-lej. \n\nNär de sen på morron vakna, \nbomfadderi-fadderullan-vakna, \nbörja’ de sin mödom sakna, \nbomfadderi-fadderullan-lej. \nGick då hem till mor och sa: – HEJ! \nBomfadderi-fadderullan-lej. \n”Åh mor! Åh mor, åh mor jag är med barn”, \nbomfadderi-fadderullan-lej. \n\n”Barn, åh barn du ska ej gråta, \nbomfadderi-fadderullan-gråta, \nännu finns det karlar kåta, \nbomfadderi-fadderullan-lej. \nPippa du så vaggar jag – HEJ! \nBomfadderi-fadderullan-lej. \nHugg i – och dra! \nDu ska nog se det ordnar sig, \nbomfadderi-fadderullan-lej”.",
-        "category": "Vajan"
+        "category": "Vajan",
+        "info": "Inlandsbanan förbinder Norrlands inland, från Mora i söder till Gällivare i Norr. Den nordligaste delen, Vilhelmina-Gällivare, stod klar 1937."
     },
     {
         "id": "15",
@@ -125,7 +130,8 @@
         "author": null,
         "melody": "Snickerboa",
         "text": "När vajan tagit sig en snaps, \ndå festar hon som få. \nOch lycklig den som vajan får \nom hon fått i sig två. \n\nDå blir hon vacker, härlig och kär, \nsådär som hon ju alltid är \noch får hon fler, \ndå vet man inte vad som sker! \n\nEn vaja är en härlig ren, \npå kammarn trivs hon bäst. \nOch får hon hålla i ett ben, \nja, då så blir det fest. \n\nLingon, Lakka, allt går ner \noch allt det där som BaRen ger, \ndet räcker knappt, \nför vajan sveper jävligt snabbt! \n\nETT-TVÅ-TRE! (drick)",
-        "category": "Vajan"
+        "category": "Vajan",
+        "info": "I föreningens ungdom drack man Lakka i samband med inval av nya vajor."
     },
     {
         "id": "17",
@@ -149,7 +155,8 @@
         "author": null,
         "melody": "Världens bästa Karlsson",
         "text": "Vajor, Vajor, \nNorrlands bästa kvinnor. \nSnygga, läckra, jävligt sensuella. \n\nVajor, Vajor, \nNorrlands bästa kvinnor. \nAlla Norrlands pojkar vill ha oss. \n\nSmarta, smäckra, \nalldeles lagom fräcka. \nRunda, mjuka, alla män vi sluka. \n\nVajor, vajor, \nvärldens bästa tjejer. \nInga andra är ju lika bra som vi!",
-        "category": "Vajan"
+        "category": "Vajan",
+        "info": "Vore vi ödmjuka vore vi perfekta."
     },
     {
         "id": "20",
@@ -165,7 +172,8 @@
         "author": "Vajans styrelse VT15",
         "melody": "Gubben Noak",
         "text": "Efter ett helt år på Norrlands \nsamlas massa skit. \nSundsvall täckt i cider, \nstädansvarig lider. \nEfter att ha städat Norrlands får vi nu vår sprit. \n\nNorrlandsåret började med höstens reccegask. \nReccar som gått bort sig, \nhittar inte ut, nej. \nStädar bort dem innan nästa Samarr i en hast. \n\nSedan följer Härk och Älggasque, damerna tar vid. \nDreglet efter killar, \nett städuppdrag vi gillar. \nHärkens bollar färdigbrukad, vilar nu i frid. \n\nInget fanns att städa efter höstfesten såklart. \nMen på antigåsen, \nfick vi städa båsen. \nHörni killar, bäst ni chillar, sitt och kissa klart. \n\nEfter lussegask och juldag Renneth äger rum. \nBirkarl på akuten, \nblöder som en skjuten. \nBlodspår skrubbas hädanefter med ett kemiskt skum. \n\nGuschelov en kväll, kul var det, glowsticks överallt. \nAngermannalaget, \nvärsta fylleslaget. \nStäda lite, ej blodvite, SkvaderDam därpå. \n\nSkvaderDam vi städa skaldjur, Festivalborg sen. \nEkopark i gamla, \nen del fulla ramla. \nVarannan vatten, håll i hatten, var är vägen hem? \n\nÅ ni vet ju alla vad som kommer efter det. \nStädsexan helt galen, \norkar vi med balen? \nKanske skräpar vi ner mera, men vad gör väl det? \n\nSkoja bara, vårbal kommer, Vajan hänger på. \nLennakatt vi åka, \nnågot ekivoka. \nStädning över, dags för klöver, grönbete vi få.",
-        "category": "Vajan"
+        "category": "Vajan",
+        "info": "Vajans städvisa handlar om städåret 14/15, då en recce blev kvar i trapphallen och Altborg hade premiär."
     },
     {
         "id": "22",
@@ -173,7 +181,8 @@
         "author": "U. Örnkloo",
         "melody": "Karl Alfred boy",
         "text": "Lyft halvan att inpacka \nden innanför den jacka \nför blir du så full att du trillar omkull \nså hjälper dig Uksakka!",
-        "category": "Vänner"
+        "category": "Vänner",
+        "info": "Uksakka bor under kåtans ingång och ser till att barnen inte faller och slår sig eller trillar i elden."
     },
     {
         "id": "23",
@@ -181,7 +190,8 @@
         "author": "Sofia Spolander, Linda Randgaard och Ida Viderlund",
         "melody": "Det gör ont",
         "text": "Och alla omkring de märker ingenting… \n\nFinns det nå mer att säga? \nSäg finns det någonting mer? \nVi är väl inga änglar, \nvi förnekar inte det. \nMen nu när det är över \nkan vi berätta allt. \n\nSpytt, vi har spytt, inget nytt, \nvi har spytt en skvätt i trappan, men inget på dass. \nNi vet de e inget nytt, vi har spytt, men ändå, \nvi har klarat oss rätt länge fast magen är kass. \nÅ alla omkring de märker ingenting, \nvi har spytt! \n\nDet finns så många minnen \nav vad vi ätit under dan. \nBurgare och nachos \noch så en splittad banan. \nVi ville bara glömma, \noch det gick överstyr. \n\nBytt, vi har bytt ut er pytt, \nvi var här en stund på natten, men inte på dan. \nDet är nånting nytt i er pytt som vi spytt, \n ni har klarat er rätt länge, ni verkar må bra! \n\nÅ alla omkring de märker ingenting, \nvi har spytt! \n\nDe sista ni behöver, \när flera minnen utav oss. \nMen nu när det är över, \nså finns vi överallt! \n\nÅåååååååååååååååååå \nBytt, vi har bytt ut er pytt, \nvi var här en stund på natten, men inte på dan. \nDet är nånting nytt i er pytt som vi spytt, \nni har klarat er rätt länge, ni verkar må bra! \n\nÅ alla omkring de märker ingenting, \nVi har spytt! ",
-        "category": "Vajan"
+        "category": "Vajan",
+        "info": "Spytt i er pytt sjöngs för Birkarlarna under en pyttstämma. De åt gräddstuvad pyttipanna."
     },
     {
         "id": "24",
@@ -213,7 +223,8 @@
         "author": "Hans Carlsson",
         "melody": "Här är gudagott att vara",
         "text": "Granskog. Gruvor. Lingon. Långfil \nSnörök. Skare. Forsar. Fjäll. \nTallhed. Tjälskott. Kraftverk. Plogbil. \nMyrar. Hjortron. Renskinnsfäll. \n\nNorrsken. Snöstorm. Älvar. Myggen. \nLador. Midnattssol. Sulfit. \nRipor. Fjällbjörk. Skidor. Hyggen. \nVajor. Löjrom. Akvavit.",
-        "category": "Vänner"
+        "category": "Vänner",
+        "info": "Världens äldsta bevarade skida är hittad i Kalvträsk. Den är 5 200 år gammal och kan beskådas på Västerbottens museum i Umeå."
     },
     {
         "id": "28",
@@ -309,7 +320,8 @@
         "author": null,
         "melody": "Uti vår hage",
         "text": "En birkarl han gillar bäst Vajan och bärs, \noch palt och fläsk. \nRiktiga män ifrån Norrlands nation, \nmed dåd mannakraft och ära, \nse vajor som har er kära, \nmed glädje vi sjunger för birkarlar. \n\nBirkarlen hyllas här i varje ton, \nav Vajan kär. \nVi vill ju gratta på er stora dag, \nmed stämmor och rena toner, \nmed känsla och intentioner, \nlyft glaset och skåla för birkarlen!",
-        "category": "Vajan"
+        "category": "Vajan",
+        "info": "Hembygdsföreningen Birkarlarna, vår broderförening, grundades den 24 mars 1934."
     },
     {
         "id": "40",
@@ -318,5 +330,261 @@
         "melody": "Bort allt vad oro gör",
         "text": "Bort alla angermän, \nskvadrar och fula jamtar, \nsom på nationen \nsig göra till fjantar \npå mot och spel. \n//: Bröder, höj fågeln, svälj den hel - \nbrygden som aldrig träffar fel! \nÖskarlens safter ge oss mannakrafter \noch mod i barm. :// \n\nBort allt vad angermän, \nskvadrar och jamtar heta. \nBättre än birkarlar \ndet får man leta \n- finns ej att få! \n//: Birkarlen han kan kvinnor ge \nbåd kvantitet och kvalitet. \nAllt han behöver är brännvin \nutöver märgben och palt. ://",
         "category": "Vänner"
+    },
+    {
+        "id": "41",
+        "title": "Hyllningssång till Birkarl II",
+        "author": null,
+        "melody": "Nu grönskar det",
+        "text": "Du birkarl har på många vis, förtjänat våran tro. \nEn gentleman i lyxpaket, med er vill vi bygga bo. \nAsado är en sommardag till brädden fylld med vin \nsom vi alla minns med glädje stor, ty dagen den var din. \n\nAntikrundor vi många gjort, de flesta slutar vått. \nInne i bastun samlas vi, där kvällar urartat smått. \nVi ha så fina minnen av våra älskade Birkarlar. \nVi hyllar er på födelsedan med ett danskt hurra: \n- Hurra, hurra, hurraaaaaaaa!",
+        "category": "Vajan",
+        "info": "Asado firades första gången 1977."
+    },
+    {
+        "id": "42",
+        "title": "Kvad",
+        "author": "Ronny Eriksson",
+        "melody": null,
+        "text": "Vi är ett folk av en särskild sort \nnere vid Piteälva, \noch våran slogan är djävligt kort: \nDet kan vi göra själva. \n\nVi behöver ingen hjälp från AMS \nnere vid Piteälva, \nför tingeltangel och annat krams, \ndet kan vi göra själva. \n\nÅ kommer det nån när det är val \nnere vid Piteälva, \nbehöver de inte hålla nåt tal, \ndet kan vi göra själva. \n\nVi lever och frodas som sig bör \nnere vid Piteälva, \nå det professorerna gör i rör, \ndet kan vi göra själva. \n\nVi behöver inget Systembolag \nnere vid Piteälva, \nför läskedrycker av alla de slag, \ndet kan vi göra själva. \n\nVi behöver inga direktiv \nnere vid Piteälva, \nför leva våra egna liv, \ndet måste vi göra själva!",
+        "category": "Vänner",
+        "info": "Piteälven, en av de fyra stora Norrlandsälvarna, är 410 km lång. Storforsen är Europas största oreglerade vattenfall med 82 meters fallhöjd."
+    },
+    {
+        "id": "43",
+        "title": "Mera män",
+        "author": null,
+        "melody": null,
+        "text": "Vi vill ha mera män, \nvi vill ha flera män, \nvi vill ha stora, starka, muskulösa män. \nDe ska ha hårigt bröst \noch djup och sexig röst. \nAnnars är de ingenting för oss... \n\nVi vill ha nya män, \nvi vill ha krya män, \nvi vill ha unga, fräscha oförstörda män. \nVi ska förföra dem, \nvi ska förgöra dem, \nÄnda tills de kryper hem i morgonstund... \n\nÄldre män ska man ej förakta, \nde gör det långsamt, de gör det sakta. \nUnga killar är bara skit, \ndet är ju knappt att de hinner dit! \n\nÄldre män ska man ej förakta, \nde gör det långsamt, de gör det sakta. \nOch är det så att man gärna vill \nså kan de göra det en gång till!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "44",
+        "title": "Vi kom från Norrland",
+        "author": null,
+        "melody": null,
+        "text": "Vi kom från Norrland, vi käka myggen, \nsom vi fånga på kalhyggen. \nOch vi lägg han, uppå smörgåsen, \nsom vi ät med laxen \n    renen \n    sillen \n    smöre \n    nubben \n    kåtan \n    pölsan \n    päran \n    fjälle \n    filen \n    Åkes hammock \noch det gör vi varje dag. \n\nHan hette Åke, och var från Tåsjö. \nHan hade en gris som var från Blåsjö, \nsom han lade uppå smörgåsen \nsom han åt med laxen... \n...och det gör han varje dag. \n\nSen har vi Herman, han kom från Böle. \nHan hade Norrlands minsta hemman. \nHan gick och kratte, och kärringa skratte (ha, ha...), \nså han la na på smörgåsen \nsom han åt med laxen...\n...och det gör han varje dag. \n\nSen har vi Göran, han kom från Pite. \nHan har ingen hjärna, men de skit vi i. \nFör han la den, uppå smörgåsen \nsom han åt med laxen...\n...och det gör han varje dag \n\nVi kom från Norrlands...",
+        "category": "Norrlands"
+    },
+    {
+        "id": "45",
+        "title": "När jag är fuller",
+        "author": null,
+        "melody": "När månen vandrar",
+        "text": "När jag är fuller, då är jag glad, \nfan vet om jag ej är vacker. \nJag vandrar kring i vår lilla stad \nbland röda hus och baracker. Jag sjunger ljuvligt en serenad, \ndet gör jag bara när jag är glad, \n//: och full och vacker. :// \n\nNär jag är fuller, då är jag stark, \nfan vet om jag ej är modig. \nDå kan jag slå vem som helst i mark, \nså han blir trasig och blodig. \nJag välter träden i våran park, \ndet gör jag bara när jag är stark, \n//: och full och modig. ://",
+        "category": "Klassiker"
+    },
+    {
+        "id": "46",
+        "title": "Mera ryssar på månen",
+        "author": null,
+        "melody": null,
+        "text": "//: Vi vill ha mera ryssar uppå månen \noch vi hoppas att de aldrig kommer ner igen :// \nJurij Gagarin \n\n//: Vi vill ha mera norrmän uppå fjället \noch vi hoppas att de aldrig kommer ner igen :// \nNorges statsminister \n\n//: Vi vill ha mera svenskar på Mallorca \noch vi hoppas att de aldrig kommer hem igen :// \nSveriges statsminister \n\n//: Vi vill ha mera finnar in i bastun \noch vi hoppas att de aldrig kommer ut igen :// \nFinlands statsminister \n\n//: Vi vill ha mera kosken ner i magen \noch vi hoppas att den aldrig kommer upp igen :// \nKosken, koskenkorva \n\n//: Vi vill ha flera skvadrar uppå kallvinden \noch vi hoppas att de aldrig kommer ner igen :// \nSkvaderns Patron \n\n//: Vi vill ha flera fingrar uppå GV:s hand \noch vi hoppas att de aldrig kommer ut igen :// \nGillevärdinnan \n\n//: Vi vill ha mera Storkarlar i Tavelsjön \noch vi hoppas att de aldrig kommer upp igen :// \nBirkarlarnas Storkarl \n\n//: Vi vill ha mera birkarlar på kammaren \noch vi hoppas att vi kommer om igen, om igen :// \nBirkarl",
+        "category": "Klassiker"
+    },
+    {
+        "id": "47",
+        "title": "Mitt lilla lån",
+        "author": "Hans Dalborg",
+        "melody": "Hej tomtegubbar",
+        "text": "//: Mitt lilla lån det räcker inte, \ndet går till öl och till brännvin. :// \nTill öl och brännvin går det åt, \noch till små pojkar emellanåt. \nMitt lilla lån det räcker inte, \ndet går till öl och till brännvin.",
+        "category": "Klassiker",
+        "info": "I föreningens ungdom hade Vajan en matrikel i form av en så kallad tumbok, där alla nya medlemmar registrerades och lämnade sina tumavtryck."
+    },
+    {
+        "id": "48",
+        "title": "Gällivarevisan",
+        "author": "Liikavaara-Frans",
+        "melody": null,
+        "text": "Dänkt att på lörda skulle fara \nin till Gällivaara på Karakkatorg. \nDär pjuta dricka prännvinsflaska \ngott som jävla satan Voj voj. \nTe vara roliga liven, \npara slagsmål å niven, \nåka polisstasjonen \nte vara jävliga fasonen. \nSitta inne halva natten, \nleva limpa och vatten, \nkomma ut morronröken, \nnappast säga tå ajöken. \n\nMen dänkte perkeleanamma \nkanske vara samma, åka Vitafoss. \nTär sänna till en gammal licka \nsom jak pruka licka förståss. \nTe pruka pli ganska sällan, \nfara hälsa på fjällan, \nkanske få lite mellan, \npara inte fastna fällan. \nTe ä klart man riskera, \ningenting reflektera, \npara inte nå mera, \nmåste gå å operera. \n\nMen nu ja luta erotiken \nöppna pritfabriken, sälja akvavit. \nÅ komma lansviskalen nära \nfråga om ja pära priten. \n\nTe vara jävliga token, \npliva plankad av snoken, \ntraga satan åt skogen, \nå åka Lule-kroken. \nSitta inne halva åren, \npliva krå uti håren, \nnappast röra på tåren, \nå komma bakas först på våren.",
+        "category": "Norrlands",
+        "info": "Namnet Gällivare kommer från samiskans jiellevárri, som betyder sprickberget och antas syfta på Malmberget."
+    },
+    {
+        "id": "49",
+        "title": "Infanteriet",
+        "author": null,
+        "melody": null,
+        "text": "Jag är inte med i infanteriet, \nkavalleriet, artilleriet. \nJag är inte med i flyget, \nför jag är en jesussoldat!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "50",
+        "title": "Gallupblanketten",
+        "author": null,
+        "melody": "Vi gå över daggstänkta berg",
+        "text": "För JA svaras ”sill i dill” \nFör NEJ svaras ”dill i sill” \n\nHar du riktigt god karaktär? -- \nEtt stort intresse för att plocka bär? -- \nVi vill ha ett svar om du är ibland dem som på morgonen \nsömniga är? -- \n\nSäg, rodnar du ovanligt lätt? -- \nOch pratar du i sömnen titt som tätt? -- \nDet kan intressera att få kontrollera är pannkaka din \nälsklingsrätt? -- \n\nHar du någon gång mjölkat kor? -- \nSäg, har du över 40 i skor? -- \nOch utan att reta så måste vi veta om du på nån jultomte \ntror? -- \n\nSäg, tar du dig ofta ett rus? -- \nOch lever du mest i sus och dus? -- \nOch gör du det katten i mars gör om natten helt utan att \ntända ett ljus? -- \n\nÄr du alltid trevlig och glad? -- \nOch särskilt då du läser detta blad? -- \nVårt tack för besväret, har du formuläret fyllt i riktigt rätt \nrad för rad? --",
+        "category": "Norrlands"
+    },
+    {
+        "id": "51",
+        "title": "Borsten",
+        "author": null,
+        "melody": null,
+        "text": "Det var en gång en flicka \nsom red uppå ett svin. \nOch flickan hon var naken \noch glad var hennes min, hon sa: \n”Den borsten, den borsten \nden river gott som brännevin! \nDen borsten, den borsten den \nriver gott som vin” \n\nDet var en gång en flicka \nsom red uppå en katt. \nOch flickan hon var naken \noch glatt var hennes skratt, hon sa: \n”Den svansen, den svansen \nden visste var den satt, satt, satt! \nDen svansen, den svansen \nden visste var den satt!” \n\nDet var en gång en flicka \nsom red uppå en ål. \nOch flickan hon var naken \noch glatt var hennes vrål, hon sa: \n”Den ålen, den ålen \nden kändes som en stång av stål! \nDen ålen, den ålen \nden kändes som en stång av stål!” \n\nDet var en gång en flicka \nsom red uppå en tupp – stå upp! \nDet var en gång en flicka \nsom red upp en pick – drick! \nDet var en gång en flicka \nsom red uppå en älg – svälj! \nDet var en gång en flicka \nsom red uppå en pitt – sitt!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "52",
+        "title": "Härjarevisan",
+        "author": "Hasse Alfredsson och Hjort-Anders Olsson",
+        "melody": "Gärdebylåten",
+        "text": "Liksom våra fäder vikingarna i Norden \ndrar vi riket runt och super oss under borden. \nBrännvinet har blitt ett elixir för kropp såväl som själ. \nKänner du dig liten och är ynklig på jorden \nväxer du med supen och blir stor uti orden, \nslår dig för ditt håriga bröst \noch blir en man från hår till häl. \n\nJa, nu ska vi ut och härja, supa och slåss och svärja. \nBränna röda stugor, slå små barn och säga fula ord! \nMed blod ska vi stäppen färga. \nNu äntligen lär jag kunna dra nån riktig nytta av min \nHermodskurs i mord. \n\nHurra, nu ska man äntligen få röra på benen, \nhela stammen jublar och det spritter i grenen. \nTänk att än en gång få spränga fram på Brunte i galopp! \n\nDin doft o kära Brunte är, trots brist i hygienen, \nför en vild mongol minst lika ljuv som syrenen. \nTänk att på din rygg få rida runt i stan och spela topp! \n\nJa, nu ska vi ut och härj... \n\nJa, mordbränder är klämmiga – ta fram fotogenen, \neftersläckning tillhör just de fenomenen \ninom brandmansyrket som det är nån verklig nytta med. \nJag målar för mitt inre upp den härliga scenen: \nBlodrött mitt i brandgult, ej ens prins Eugen en \nlika mustig vy kan måla – ens om han målade med sked! \n\nJa, nu ska vi ut och härja...",
+        "category": "Klassiker",
+        "info": "Norr- och Västerbotten har minst antal anmälda brott i relation till antal invånare."
+    },
+    {
+        "id": "53",
+        "title": "Kungssången",
+        "author": "C.V.A. Strandberg och O. Lindblad",
+        "melody": null,
+        "text": "Ur svenska hjärtans djup en gång \nen samfälld och en enkel sång, \nsom går till kungen fram! \nVar honom trofast och hans ätt, \ngör kronan på hans hjässa lätt, \noch all din tro till honom sätt, \ndu folk av frejdad stam!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "54",
+        "title": "Lingonben",
+        "author": "Povel Ramel",
+        "melody": null,
+        "text": "Bluff och Spark och Tork och Kvark\nvoro sex små dvärgar.\nEn var full och en var glad\noch en var dum i huvudet.\nHej, sa Kvark till lille Tork.\nKänner du igelkotten Pilt?\nHan som varit i Paris?\nJa, det gjorde Ivar.\nHör du hans lilla runda tass\nnär som han trippar på sitt pass.\nTripp och trapp och trypa,\nse hans lilla piga!\n\nTomtefar i skogens brus\nsitter som ett päron.\nHan har inget eget hus\nallt i sin stora näsa.\nSöt och blöt är sagans fe\nTrollen är bjudna hit på te.\nDet lilla trollet! Pass för det!\nNu ska mormor bada.\nVäva och spinna natten lång,\nprinsen är här i fjorton språng.\nHopp och hipp och huppla,\nhästen heter Sverker.\n\nStora slottet Drummeldimp\nligger bortom fjärran.\nDit får ingen komma in\nsom ej kan baka struvor.\nGyllenkrok och Sockertipp,\nkom, ska vi dansa häxan våt.\nVill du mig här så har du nåt,\nsov du lilla tryne.\nKungen är full av stock och sten,\nskogen är full av lingonben.\nPer är full av tomtar,\nhur ska lillan orka?",
+        "category": "Klassiker"
+    },
+    {
+        "id": "55",
+        "title": "Sånt är liver",
+        "author": "Stig Rossner och William Cook",
+        "melody": null,
+        "text": "Sånt är livet!\nSånt är livet!\nSå mycket falskhet bor det här.\nDen man förlorar, vinner en annan,\nså håll i vännen som du har kär!\n\nHan kom om våren, som en vårvind.\nMin kärlek fick han, och allt han tog.\nMen så kom hösten, och all den kärlek\nhan svor var evig, bara dog.\nSånt är livet!\n\nHan fick en annan, jag har sett dom.\nHan verkar lycklig, och hon är ung.\nDet jag har lärt mig, det är just detta:\nNär hjärtat svider – sjung, blott sjung!\nSånt är livet!\n\nVårt liv är fattigt, utan kärlek.\nJag fick en annan som har mig kär.\nHans gamla flamma, har fått korgen.\nHon undrar säkert vem jag är!\nSånt är livet!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "56",
+        "title": "Lingonsnaps",
+        "author": null,
+        "melody": "Lingonben",
+        "text": "Snaps å öl å vin å punsch,\nallt är gott att dricka.\nSnaps dock favoriten är\ntrots att den oss ger hicka.\nMen än sen vad gör väl det?\nFortsätt bara då å le.\nKammarn är öppen sent ikväll,\nge mig ett glas gäll!\n\nUsch och fy nej vilken miss,\ndet smakar faktiskt bäverkiss.\nUt med allt jag spottar\n- ge mig beska droppar!\n\nYrmakare kom nu hit,\nsluta upp att flumma.\nFram med flaskan till mitt glas,\nhäll äpple kardemumma!\n\nDen så väldigt lätt slank ner,\nfår nog plats med några fler.\nOm jag så ska bäras bort,\nvill prova varje sort!\n\nPappersduken den är vit,\nglaset är fullt med lingonsprit.\nLyft det nu och skåla (skåla och drick),\nfem till kan jag tåla.",
+        "category": "Vajan",
+        "info": "Den här sången om lingonsnaps har Ypsilon skrivit."
+    },
+    {
+        "id": "57",
+        "title": "Bort allt vad oro gör",
+        "author": "Carl Michael Bellman",
+        "melody": null,
+        "text": "Bort allt vad oro gör,\nbort allt vad hjärtat kväljer!\nBäst att man väljer bland dessa buteljer\nsin maglikör.\n//: Granne, gör du just som jag gör,\nvet denna oljan ger humör.\nVad det var läckert! Vad var det?\nRhenskt Bläckert? Oui, Monsigneur. ://\n\nBort allt vad oro gör,\nallt är ju stoft och aska.\nLåt oss bli raska och tömma vår flaska\nbland bröderna.\n//: Granne, gör du just som jag gör,\nvet denna oljan ger humör.\nVad det var mäktigt! Vad var det?\nJo, präktigt. Malaga - ja. ://",
+        "category": "Klassiker"
+    },
+    {
+        "id": "58",
+        "title": "Nationen",
+        "author": "Ingemar Lundberg",
+        "melody": "Macken",
+        "text": "Stålarna kommer, stålarna går\npå Q:arnas nation.\nVåran revisor får gråa hår\npå Q:arnas nation.\n2Q ränner kors och tvärs,\nletar efter cash,\n1Q dricker bärs.\n\n1-och 2Q har nation ihop.\n1- och 2Q har kontor ihop.\n1- och 2Q har",
+        "category": "Norrlands",
+        "info": "*åkantens"
+    },
+    {
+        "id": "59",
+        "title": "Kåta Maja",
+        "author": null,
+        "melody": null,
+        "text": "Om det skulle komma en friare till mig,\nsom jag tror att han gör\nför han har gjort så en gång förr.\nSå inte får han komma in på kammarn till mig,\ndet lovar jag min mamma, och så dig, bara dig.\n\nMen om han skulle komma in på kammarn till mig,\nsom jag tror att han gör\nför han har gjort så en gång förr.\nSå inte får han komma under kjorteln på mig,\ndet lovar jag min mamma, och så dig, bara dig.\n\nMen om han skulle komma under kjorteln på mig,\nsom jag tror att han gör\nför han har gjort så en gång förr.\nSå inte får han ta på kussimurran på mig,\ndet lovar jag min mamma, och så dig, bara dig.\n\nMen om han skulle ta på kussimurran på mig,\nsom jag tror att han gör\nför han har gjort så en gång förr.\nSå inte får han sticka Sturske Laban i mig,\ndet lovar jag min mamma, och så dig, bara dig.\n\nMen om han skulle sticka Sturske Laban i mig,\nsom jag tror att han gör\nför han har gjort så en gång förr.\nSå inte får han göra några flickebarn med mig,\ndet lovar jag min mamma, och så dig, bara dig.\n\nMen om han skulle göra ett flickebarn med mig,\nsom jag tror att han gör\nför han har gjort så en gång förr.\nSå inte får hon heta Kåta Maja efter mig,\ndet lovar jag min mamma, och så dig, bara dig.",
+        "category": "Vajan"
+    },
+    {
+        "id": "60",
+        "title": "Snoppfritt julkort",
+        "author": "Linnea Kjellberg",
+        "melody": "Snoppfri inkorg",
+        "text": "På morron när jag vaknar ôpp,\nhämtar posten, ser en snôpp.\nGenom julkorten jag tittar, överallt fullt av pittar.\nJulstämningen blir så tung, när korten föreställer pung.\nGärna bild med fru och barn, men inte på den lilla karln.\nStjärnan över Betlehem, men inga bilder på din lem.\nJesusbarnet i sin krubba, ingen på din köttklubba.\nNär i brevlådan jag kollar, vill jag ej se pitt och bollar.\nNu måste detta få ett stôpp, vill ha mitt julkort fritt från\nsnôpp.\n\nFör jag vill inte ha nån snôpp på mitt julkort,\nSnôpp, snôpp, nej stôpp.\nIngen snôpp snôpp snôpp, nej nu får det va stôpp,\nsnälla låt bli mitt julkort.\n\nFör jag vill sätta ljus i staken, inte se den fotad naken.\nTrä din strumpa över drulen så du inte sabbar julen.\nGe mig gärna en chokladask,\nlåt mig slippa se din daggmask.\nIngen bild på köttpålen, inte heller brysselkålen.\nAlla tjejers stora skräck: att få en bild på tomtens säck.\nTa en bild på julegranen, utelämna könsorganen!\nNär du sjunger julesång, täck över din polkastång.\nKasta kôrv i kôrridor, vill inte ha nån snôpp i år.\n\nFör jag vill inte ha nån snôpp på mitt julkort,\nSnôpp, snôpp, nej stôpp.\nIngen snôpp snôpp snôpp, nej nu får det va stôpp,\nSnälla låt bli mitt julkort.",
+        "category": "Vajan"
+    },
+    {
+        "id": "61",
+        "title": "Vajan är här",
+        "author": "Vajans styrelse HT15",
+        "melody": "Julen är här",
+        "text": "Ypsilon fnittrar på kammaren,\nklubbverket jobbar hårt här på nationen.\nOch när skvaderns post slutligen kommit fram\nglädjes vi alla åt nya Patronen.\n\nVajan är här och lyser upp nationen,\nglädjen är stor, i birkarlens ögon bor den.\nVajan är här och skriver nya sånger,\nkom, ta ett glas känn ingen ånger,\nför Vajan är här.\n\nHärjajämt är lite ledsna för\njamtarnas knapp är slapp och bara hänger.\nOch när Laget saknar nåt\nkanske det finns hos oss,\nfast det har vi slutat med, vi är ju vänner.\n\nMaten är här och fyller våra magar,\ntack till vår kock, han vet hur man köttet lagar.\nHär är vi nu, i Söder om Sundsvalls trakter,\nfestar sen ber till högre makter,\nnär bakis vi är.\n\nVajan är här och lyser upp nationen,\nglädjen är stor, i birkarlens ögon bor den.\nVajan är här i våra mörka länder,\nkom, låt oss ta varandra händer,\nför Vajan är här.",
+        "category": "Vajan"
+    },
+    {
+        "id": "62",
+        "title": "Svinnsta skär",
+        "author": "Gideon Wahlberg",
+        "melody": null,
+        "text": "Dansen den går uppå Svinnsta skär,\nhör klackarna mot hällen.\nGossen han svänger med flickan kär\ni stilla sommarnatt.\nBlommorna doftar från hagen där\noch många andra ställen,\noch mitt i taltrastens kvällskonsert\nhörs många muntra skratt.\n\nLjuvlig är sommarnatten,\nblånande vikens vatten,\noch mellan bergen och tallarna\nhöres musiken och trallarna.\nFlickan har blommor i håret,\nmånen strör silver i snåret.\nAldrig förglömmer jag stunderna där\nuppå Svinnsta skär.\n\nGossen tar flickan uti sin hand\noch vandrar ned mot stranden.\nLossar sin julle och ror från land,\nbland klippor och bland skär.\nDrömmande ser han mot vågens rand\nsom rullar in mot sanden.\nKysser sin flicka så ömt ibland\noch viskar: \"Hjärtans kär\"\n\nLjuvlig är sommarnatten…",
+        "category": "Klassiker"
+    },
+    {
+        "id": "63",
+        "title": "Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind",
+        "author": "Cornelis Vreeswijk",
+        "melody": null,
+        "text": "Från Öckerö loge hörs dragspel och bas,\nfullmånen lyser som var den av glas.\nDär dansar Fredrik Åkare, kind emot kind,\nmed lilla fröken Cecilia Lind.\n\nHon dansar och blundar så nära intill.\nHon följer i dansen precis vart han vill.\nHan för och hon följer lätt som en vind,\nmen säg varför rodnar Cecilia Lind?\n\nSäg var det för det Fredrik Åkare sa:\n\"Du doftar så gott och du dansar så bra,\ndin midja är smal och barmen är trind.\nVad du är vacker Cecilia Lind.\"\n\nMen dansen tog slut och vart skulle dom gå?\nDom bodde så nära varandra ändå.\nTill slut kom dom fram till Cecilias grind.\n\"Nu vill jag bli kysst\", sa Cecilia Lind.\n\nVet hut Fredrik Åkare, skäms gamla karl!\nCecilia Lind är ju bara ett barn,\nren som en blomma, skygg som en hind.\n\"Jag fyller snart sjutton\" sa Cecilia Lind.\n\nOch stjärnorna vandra och timmarna flyr,\noch Fredrik är gammal men månen är ny.\nJa Fredrik är gammal men kärlek är blind.\n\"Åh, kyss mig igen \" sa Cecilia Lind.",
+        "category": "Klassiker"
+    },
+    {
+        "id": "64",
+        "title": "Dåne liksom åskan, bröder",
+        "author": "P.G. Norman, J. Jolin och J.H. Stunz",
+        "melody": null,
+        "text": "Dåne liksom åskan bröder,\nhögt vår hembygdshyllningssång.\nPulsen brinner hjärtat glöder,\nen fanfar ännu en gång!\nSången ädla känslor föder,\nhjärtats nyckel heter sång.\n\nMå vi då i toner bära\nfram vår hyllning till vår nation.\nHöj en skål för Norrlands ära!\nSjung med hjärtat varje ton.\nHöj en skål för Norrlands ära,\nkära, länge leve vår nation!",
+        "category": "Norrlands",
+        "info": "Chorus Virorum valdes till Årets Härk 2015 och sjöng Vajansånger som kaffeunderhållning."
+    },
+    {
+        "id": "65",
+        "title": "Jämtlandssången",
+        "author": "W. Peterson-Berger",
+        "melody": null,
+        "text": "Så tåga vi tillsammans bort\nmellen Jämtlands gröna ängar\nbort mellan Nyland som prunka\nfulla av bröllopsblomsters prakt.\nSå skåda vi med gamman hän\növer berg i blåa fjärran\nhän över sjöar, strömmar, skogar\njämt kring bygder på vakt.\n\nFagert är landet som blev vår lott och arvedel,\nså firom dess fägring nu\nmed sång och stråkars spel.\nTändom ånyo det hopp som våra fäder närt!\nFör slit och mödor av fröjd och sol\nett mått oss beskärt.\n\nFejen så sjong mæ att‚\nJamtlann de e lanne vårt!\nI tusen år ha mæ hadd'e,\nhåll'e därför hårt.\nLer ta den friheit\nsom fedran ein gång at oss ga!\nHen ske mæ læva å minnes allht,\nsom fedran oss sa!",
+        "category": "Vänner"
+    },
+    {
+        "id": "66",
+        "title": "Var skvader",
+        "author": null,
+        "melody": "Eurovisionmelodin",
+        "text": "Var skvader som finns på vår nation \nav äldre kamrater har lärt en tradition: \natt noga se om sin kondition \noch högra armen ge motion.",
+        "category": "Vänner"
+    },
+    {
+        "id": "67",
+        "title": "Ypssången",
+        "author": null,
+        "melody": "Horgalåten",
+        "text": "Ä´nt man en ypsa är det sorgligt,\ndå är det sorgligt,\ndå vill en bara dö.\nJa, ä´nt man en ypsa är det sorgligt,\ndå vill en bara till å tvärdö.\n\nMen är man ypsa, är man ypsa,\ndå kan man dansa natten lång!\nJa, är man ypsa, är man ypsa,\ndå kan man dansa natten lång!\n\nMen ä´nt man en ypsa är det sorgligt,\ndå är det sorgligt,\ndå vill en bara dö.\nJa, ä´nt man en ypsa är det sorgligt,\ndå vill en bara till å tvärdö.",
+        "category": "Vänner"
+    },
+    {
+        "id": "68",
+        "title": "Härjajämtsången",
+        "author": "Olle Naeslund",
+        "melody": "Ovan där",
+        "text": "** år sen ungefär, några tjejer sa så här: \nAlla killar bara dillar och dom super och dom svär. \nMen det värsta av allt e, \nvi får inte vara med, \ndet är dags att göra någonting åt det! \n\nHärjaJämt – som ett svar på bön, \nHärjaJämt – för ett försummat kön, \nHärjaJämt – en stor innovation. \nDet är dags att också jämtskor tar sig ton. \n\nVem behöver väl nån karl om man barnasinnet har? \nOch förresten tjejer, vet ni väl att den som spar hon har. \nLåt dem nu få stå och glo, \ndet är våran tur till tjo, \noch det frö vi satt ska spira upp och gro. \n\nHärjaJämt – som ett svar på bön, \nHärjaJämt – förgyller vår miljö, \nHärjaJämt – en tjejrevolution, \när det bästa som har hänt på vår nation. \n\nDet har nu gått några år och det som blev till består, \noch på ypsor och på vajor det har nog gett gråa hår. \nVem får angermannens sång, \nspräcker birkarlens ballong, \ntänder skvadern och ger jamtens luva fjong? \n\nJo! \nHärjaJämt – som ett svar på bön, \nHärjaJämt – för ett försummat kön, \nHärjaJämt – en sann inkarnation, \när det bästa som har hänt på vår nation. \n\nSå hör upp en sista gång, gör din vardag mindre vrång. \nKom till HärjaJämt och härja jämt \nmed systrar och med sång. \nDen examen du ska få \nger ju inga jobb ändå, \nså glöm bort besvär och sjung med oss som så: \n\nHärjaJämt – som ett svar på bön, \nHärjaJämt – ger dig tröst och lön, \nHärjaJämt – en manifestation, \när det bästa som har hänt på vår nation.",
+        "category": "Vänner"
+    },
+    {
+        "id": "69",
+        "title": "Angerman",
+        "author": null,
+        "melody": "Helan går",
+        "text": "Angerman! \nMed flottarhake från Ångermanland. \nAngerman! \nDu glider på älven fram. \nOch är man inte angerman \nman heller inte glider fram. \nAngerman! \nDu glider på älven fram!",
+        "category": "Vänner"
+    },
+    {
+        "id": "70",
+        "title": "Punschen kommer",
+        "author": "Lilly Värjare",
+        "melody": "Lippen schweigen ur “Glada änkan“",
+        "text": "Punschen kommer, punschen kommer, \nljuv och sval \nGlasen imma, röster stimma \ni vår sal. \nSkål för gamla minnen, \nskål för varje vår! \nInga sorger finnas mer \nnär punsch vi får!",
+        "category": "Klassiker"
+    },
+    {
+        "id": "71",
+        "title": "O, gamla klang- och jubeltid",
+        "author": "August Lindh",
+        "melody": "O alte Burschenherrlichkeit (tysk studentsång)",
+        "text": "O gamla klang och jubeltid, \nditt minne skall förbliva, \noch än åt livets bistra strid, \nett rosigt skimmer giva. \nSnart tystnar allt vårt ystra skämt, \nvår sång blir stum, vårt glam förstämt. \nO, jerum, jerum, jerum. \nO, quae mutatio rerum! \n\nVar äro de som kunde allt, \nblott ej sin ära svika. \nSom voro män av äkta halt \noch världens herrar lika? \nDe drogo bort från vin och sång \ntill vardagslivets tråk och tvång. \nO, jerum, jerum, jerum. \nO, quae mutatio rerum! \n\n(Filosofer) Den ene vetenskap och vett in i scholares mänger, \n(Jurister) den andre i sitt anlets svett på paragrafer vränger. \n(Teologer) En plåstrar själen, som är skral, \n(Medicinare) en lappar ihop dess trasiga fodral; \n(Alla) O, jerum, jerum, jerum, \nO, quae mutatio rerum! \n\nMen hjärtat i en sann student, \nkan ingen tid förfrysa. \nDen glädjeeld som där han tänt, \nhans hela liv skall lysa. \nDet gamla skalet brustit har \nmen kärnan finnes frisk dock kvar, \noch vad han än må mista, \nden skall dock aldrig brista! \n\nSå sluten, systrar, fast vår krets, \ntill glädjens värn och ära! \nTrots allt vi tryggt och väl tillfreds, \nvår vänskap trohet svära. \nLyft bägarn högt, och klinga, vän! \nDe gamla gudar leva än \n//: bland skålar och pokaler ://",
+        "category": "Klassiker"
     }
 ]

@@ -3,6 +3,8 @@ import { useEffect } from 'react'
 import { useState } from 'react'
 import './songs.css'
 
+import { Tooltip } from 'react-tooltip'
+
 function Songs() {
     const [songs, setSongs] = useState([])
     const [allSongs, setAllSongs] = useState([])
@@ -160,7 +162,22 @@ function Songs() {
                     <div key={song.id} id={song.id} className='song-div'>
 
                         <div className='songtitle-container'>
-                            <h2>{song.title}</h2>
+                            <header>
+                                <h2>{song.title}</h2> 
+                               
+                                {song.info && (
+                                    <div>
+                                        <button data-tooltip-id="tooltip"
+                                        data-tooltip-content={song.info}
+                                        data-tooltip-place="top"
+                                        data-tooltip-variant="light"
+                                        >i</button>
+                                        <Tooltip id="tooltip" openOnClick="true" />
+                                    </div>
+                                    
+                                )}
+                            </header>
+
 
                             {song.melody && (
                                 <p style={{fontStyle: 'italic'}}>Mel: {song.melody}</p>
