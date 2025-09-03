@@ -140,10 +140,12 @@ function Songs() {
                     <li><a id='Klassiker' onClick={() => filterByCategory('Klassiker')}>Klassiker</a></li>
                     <li><a id='Vänner' onClick={() => filterByCategory('Vänner')}>Vänner</a></li>
                 </ul>
+                <div id="search">
+                    <input type='text' id='search-songs' onChange={filterSongs} placeholder='Sök efter sång'></input>
 
-                <input type='text' id='search-songs' onChange={filterSongs} placeholder='Sök efter sång'></input>
-
-                <div id='register'>Eller bläddra bland alla sånger i <a onClick={openRegister}>Registret</a></div>
+                    <div id='register'>Eller bläddra bland alla sånger i <a onClick={openRegister}>Registret</a></div>
+                </div>
+                
                 
             </div>
 

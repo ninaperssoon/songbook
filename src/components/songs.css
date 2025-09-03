@@ -4,7 +4,6 @@ ul {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    min-width: 100vw;
 }
 
 a {
@@ -117,6 +116,10 @@ button {
     height: 2rem;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 #register {
     text-align: start;
     width: 85%;
@@ -134,4 +137,38 @@ button {
     padding: 0.2rem 0 1rem 0;
     transition: box-shadow 0.2s ease-in-out;
     box-shadow: 0px 5px 5px #831a1a6e;
+    min-width: 100vw;
+}
+
+@media screen and (min-width: 768px){
+    #song-container {
+        width: 900px;
+        justify-self: center;
+        column-count: 2;
+        padding-top: 1rem;
+    }
+    
+    #nav ul, #search{
+        width: 900px;
+        justify-self: center;
+    }
+
+    #search {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    input {
+        margin: 0;
+        width: 50%;
+    }
+
+    #register {
+        width: 40%;
+    }
+
+    .song-div {
+        padding-bottom: 20px;
+    }
 }
